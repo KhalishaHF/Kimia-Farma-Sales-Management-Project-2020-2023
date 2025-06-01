@@ -48,7 +48,7 @@ END AS persentase_gross_laba
 ```
 ---
 # Dashboard
-kf_tableau.png
+![Kimia Farma Dashboard](kf_tableau.png)
 
 [Visit the dashboard.](https://public.tableau.com/app/profile/khalisha.fakhira/viz/PerformanceAnalyticsofKimiaFarma2020-2023/Dashboard1)
 
