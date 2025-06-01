@@ -9,7 +9,6 @@ This project presents a comprehensive performance analytics dashboard for Kimia 
 - [Dashboard](#dashboard)  
 - [Dashboard Features](#dashboard-features)  
 - [Key Insights](#key-insights)  
-- [Author](#author)
 
 # Project Overview
 This project was built to analyse branch, product, and sales performance for Kimia Farma between 2020 and 2023. The objective is to help decision-makers identify:
