@@ -1,5 +1,4 @@
 # Kimia-Farma-Sales-Management-Project-2020-2023
-# Kimia-Farma-Sales-Management-Project-2020-2023
 This project presents a comprehensive performance analytics dashboard for Kimia Farma, one of Indonesia’s largest pharmaceutical companies. The dashboard provides insights into sales, profit distribution, customer transactions, and product performance across branches and provinces.
 
 # Table of Content
@@ -49,7 +48,7 @@ END AS persentase_gross_laba
 ```
 ---
 # Dashboard
-![Kimia Farma Dashboard](kf_tableau.png)
+kf_tableau.png
 
 [Visit the dashboard.](https://public.tableau.com/app/profile/khalisha.fakhira/viz/PerformanceAnalyticsofKimiaFarma2020-2023/Dashboard1)
 
